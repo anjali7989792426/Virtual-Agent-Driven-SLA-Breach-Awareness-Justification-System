@@ -1,9 +1,9 @@
 
 
 
-# 🚀 Virtual Agent–Driven SLA Breach Awareness & Justification System
+# Virtual Agent–Driven SLA Breach Awareness & Justification System
 
-## 📌 Overview
+##  Overview
 
 The **Virtual Agent–Driven SLA Breach Awareness & Justification System** is a zero-code, admin-level ServiceNow solution designed to improve SLA governance through proactive breach awareness, accountability, and audit readiness.
 
@@ -11,7 +11,7 @@ The system automatically identifies SLA risks, notifies assigned agents, collect
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Organizations often face Service Level Agreement (SLA) breaches due to delayed issue resolution, lack of timely notifications, and insufficient accountability. Traditional monitoring methods notify users only after the SLA has already been violated.
 
@@ -19,22 +19,22 @@ This project addresses these challenges by implementing a proactive SLA governan
 
 ---
 
-## ✨ Features
+##  Features
 
-* ✅ Real-time SLA breach monitoring
-* ✅ Proactive SLA risk notifications
-* ✅ ServiceNow Virtual Agent integration
-* ✅ Mandatory SLA breach justification
-* ✅ UI Policies & Data Policies validation
-* ✅ Flow Designer automation
-* ✅ Role-based access control
-* ✅ Executive Dashboard & Reports
-* ✅ Audit-ready SLA governance
-* ✅ Zero-code implementation
+*  Real-time SLA breach monitoring
+*  Proactive SLA risk notifications
+*  ServiceNow Virtual Agent integration
+*  Mandatory SLA breach justification
+*  UI Policies & Data Policies validation
+*  Flow Designer automation
+*  Role-based access control
+*  Executive Dashboard & Reports
+*  Audit-ready SLA governance
+*  Zero-code implementation
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * ServiceNow Platform
 * ServiceNow System Administrator
@@ -48,7 +48,7 @@ This project addresses these challenges by implementing a proactive SLA governan
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Incident Created
@@ -84,7 +84,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 📂 Project Modules
+##  Project Modules
 
 ### Requirement Analysis & Planning
 
@@ -130,7 +130,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Incident is created.
 2. SLA is automatically attached.
@@ -143,7 +143,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 📊 Benefits
+##  Benefits
 
 * Reduces SLA violations
 * Improves accountability
@@ -156,7 +156,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 📈 Expected Outcome
+##  Expected Outcome
 
 * Increased SLA compliance
 * Faster incident resolution
@@ -167,7 +167,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | Name                  | Role        |
 | --------------------- | ----------- |
@@ -180,7 +180,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * AI-powered SLA prediction
 * Microsoft Teams integration
@@ -191,7 +191,7 @@ Dashboard & Reports Updated
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates practical knowledge of:
 
@@ -207,6 +207,3 @@ This project demonstrates practical knowledge of:
 
 ---
 
-
-
-### ⭐ If you find this project useful, please consider giving it a Star on GitHub!
